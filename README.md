@@ -8,7 +8,7 @@
 ### Instalasi
 
 ```bash
-cd SoalDua
+cd SoalDua / cd SoalSatu
 pip install -r requirements.txt
 ```
 
